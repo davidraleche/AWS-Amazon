@@ -1,4 +1,4 @@
-#EBS + XFS File System by David Raleche - Attach a new EBS volume to your Linux Instance (centos)
+# EBS + XFS File System by David Raleche - Attach a new EBS volume to your Linux Instance (centos)
 
 #1 - yum install xfsprogs
 
