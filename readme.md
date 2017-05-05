@@ -22,3 +22,5 @@ mkdir -m 000 /vol
 
 #5
 mount /vol
+
+
